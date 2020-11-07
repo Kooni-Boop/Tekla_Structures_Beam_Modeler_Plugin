@@ -1,0 +1,9 @@
+C:\Users\dev01\source\repos\BeamModelPlugin\BeamModelPlugin\bin\Debug\BeamModelPlugin.dll
+C:\Users\dev01\source\repos\BeamModelPlugin\BeamModelPlugin\bin\Debug\BeamModelPlugin.pdb
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.csprojAssemblyReference.cache
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.csproj.CoreCompileInputs.cache
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.dll
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.pdb
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.Properties.Resources.resources
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.csproj.GenerateResource.cache
+C:\Users\dev01\source\repos\BeamModelPlugin\ObjDir\2016i\BeamModelPlugin\BeamModelPlugin.Main.resources
